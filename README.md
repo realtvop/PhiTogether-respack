@@ -4,4 +4,4 @@
 ## 联系方式
 [Mail](mailto:realtvop@realtvop.eu.org)
 
-[Telegram Bot](https://t.me/ptresuploadBot)
+[Bot](https://t.me/ptresuploadBot)
